@@ -1,5 +1,4 @@
 # Real-Time Language Translation (NMT)
-
 This is a simple **Streamlit-based application** for real-time language translation using **Neural Machine Translation (NMT)**.
 
 ## Features
